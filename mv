@@ -1,0 +1,3 @@
+This shell command is used to move a file from one location to another.
+The command takes two parameters, firstly the filed to be moved and secondly the location it is to be moved to.
+The command can also be used to rename a file, if the second parameter specifies a different file name.
