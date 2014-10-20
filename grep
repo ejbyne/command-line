@@ -1,0 +1,2 @@
+The grep command is used to search for a specified word/expression within a file.
+The command takes two parameters, firstly what is being searched for and secondly the file(s) to search through.
