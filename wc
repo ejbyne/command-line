@@ -1,0 +1,3 @@
+This is the word count command.
+It lists the line, word and character counts.
+The paramaters -l, -w and -m can be used to select the specific count.
